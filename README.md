@@ -26,7 +26,7 @@ reverend, "church").
 
 A word cloud of the top 100 most frequent words in the book reveals themes that are still pertinent to Amherst College today (“department,” “trustees,” “students,” “dollars,” “fund”), and others that are not (“legislature,” “christian,” “revival,” “academy,” and “seminary”). 
   <p align="center">
-  <img src="README-images/word-cloud-book.png" width="300" heigth="300"/>
+  <img src="README-images/word-cloud-book.png" width="350" heigth="350"/>
 </p>
 
 ### Analyzing chapter 19 through three methods
