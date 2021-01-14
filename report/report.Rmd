@@ -37,7 +37,7 @@ To accomplish this goal, we used word frequencies, which provide a measure of th
 
 ```{r, echo = FALSE, fig.align='center'}
 # Note that code to generate this graph is given in the Analysis section
-knitr::include_graphics("report/word_cloud_entire_book.png")
+knitr::include_graphics("word-cloud-entire-book.png")
 ```
 
 When we look at figure 2, we see many words that we would still characterize as being pertinent to Amherst College today.  For example, "department," "trustees," "students," "dollars," and "fund" are all words that color our current conversations and experiences as Amherst College students over 150 years later.  However, there are also words in figure 2 that are, albeit not absent, less relevant to the present day Amherst experience, such as "legislature," "christian," "revival," "academy," and "seminary." The difference between the words that characterize Amherst in this book, and the words that we may use when discussing Amherst highlights the ways in which Amherst has changed in the past century and a half. 
@@ -54,7 +54,7 @@ The book has 29 chapters, all of which we wanted to investigate.  We wrote a fun
 
 ```{r}
 # Making vector of the paths for all of the txt files in the folder
-fileNames <- Sys.glob("chapters/*.txt")
+fileNames <- Sys.glob("../book-raw-files/chapters/*.txt")
 ```
 
 ```{r, cache=TRUE}
