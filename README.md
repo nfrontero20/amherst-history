@@ -6,10 +6,10 @@ We shared our findings in a pdf report titled ["Amherst History Report"](https:/
 
 ## Report highlights 
 
-  - Wrote a function that imports all 29 text files (one for each chapter), cleans them, and returns a dataframe with the entire content of the book, with rows separating chapters
-  - Identified top 10 most frequent words throughout the entire book, and most frequent word for each chapter
+  - Wrote a function that imports all 29 text files (one for each chapter), cleans them, and returns a dataframe.  The dataframe contains the entire content of the book with rows separating chapters
+  - Identified top 10 most frequent words throughout the entire book and the top 3 most frequent words for each chapter
   - Identified the top tf-idf [(term frequency-inverse document frequencies)](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) for each chapter
-  - Created a word cloud for the entire book and for a particular chapter
+  - Created a word cloud for the entire book and for one particular chapter
     
 ## Overview of findings
 
