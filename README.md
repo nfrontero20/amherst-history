@@ -31,13 +31,15 @@ A word cloud of the top 100 most frequent words in the book reveals themes that 
 
 ### Analyzing chapter 19 through three methods
 
-We chose one chapter to analyze through three different text analysis methods: word frequencies, tf-idf's, and word clouds.  From analyzing chapter 19 "Biographical Sketches of Dr. Hitchcock and Some of His Associates," we were able to get a summary glimpse of the chapter contents without ever reading the chapter.
+We chose to analyze chapter 19 "Biographical Sketches of Dr. Hitchcock and Some of His Associates" through three different text analysis methods: word frequencies, tf-idf's, and word clouds.  
 
-We found that the top 3 most frequent words in chapter 19 were "dr," "life," and "time".   We also made a word cloud of chapter 19 to identify the top 100 most frequent words in the chapter (with the size of the words in the cloud signifying their relative frequency in the chapter).
+We first looked at word frequencies in the chapter, and found that the top 3 most frequent words in chapter 19 were "dr," "life," and "time".   We also made a word cloud of chapter 19 to identify the top 100 most frequent words in the chapter (with the size of the words in the cloud signifying their relative frequency in the chapter).
 
 <p align="center">
   <img src="README-images/word-cloud-chapter19.png" />
 </p>
 
-Meanwhile, the five words that had the highest tf-idf's in chapter 19 were "survey," "scientific," "hitchcock," "geology," and "comprehensive", indicating that these were the five words were particularly frequent in this chapter when comparing their frequency throughout the entire book.  
+Finally, we identified the five words with the highest tf-idf's in chapter 19, which were "survey," "scientific," "hitchcock," "geology," and "comprehensive," indicating that these were the five words were particularly frequent in this chapter when comparing their frequency throughout the entire book.  
+
+From employing these three text analysis methods, we were able to get a rough summary of the chapter as a whole, and noticed that certain methods were more helpful than others.  The top 3 most frequent words in chapter 19 don't tell us much about the chapter.    
 
