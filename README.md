@@ -43,3 +43,5 @@ Finally, we identified the five words with the highest tf-idf's in chapter 19, w
 
 From employing these three text analysis methods, we were able to get a very rough summary of the chapter as a whole.  Also, we noticed that certain methods were more helpful than others.  While the top 3 most frequent words in chapter 19 don't tell us much about the chapter, the top 5 tf-idf words signify that mention of Dr. Hitchcock and geology is concentrated in this chapter.  We also found the word cloud to be helpful to get a visual glimpse of the most frequent words in the chapter.
 
+*For more information on Dr. Hitchcock, he is mentioned in detail in the webpage ["A Brief History of Geology at Amherst College"](https://www.amherst.edu/academiclife/departments/geology/about-the-department/brief-history-about-the-department)*
+
