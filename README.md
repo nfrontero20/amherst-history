@@ -19,7 +19,7 @@ We shared our findings in a pdf report titled ["Amherst History Report"](https:/
 The top 10 most frequent words in the book, after "college" and "amherst," included words pertaining to three themes: important college personnel (“dr,” “president,” “trustees”); the student body (“students," “class”); religion (“rev,” short for
 reverend, "church").
 <p align="center">
-  <img src="README-images/word-frequencies-book.png" />
+  <img src="README-images/word-frequencies-book.png" width="200" height="400"/>
 </p>
 
 ### Word cloud of top 100 most frequent words in the book:
