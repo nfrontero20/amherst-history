@@ -14,20 +14,30 @@ We shared our findings in a pdf report titled ["Amherst History Report"](https:/
     
 ## Overview of findings
 
-1) The top 10 most frequent words in the book, after "college" and "amherst," included words pertaining to three themes: important college personnel (“dr,” “president,” “trustees”); the student body (“students," “class”); religion (“rev,” short for
-reverend, "church")
+### Top 10 most frequent words in the book:
+
+The top 10 most frequent words in the book, after "college" and "amherst," included words pertaining to three themes: important college personnel (“dr,” “president,” “trustees”); the student body (“students," “class”); religion (“rev,” short for
+reverend, "church").
 <p align="center">
   <img src="README-images/word-frequencies-book.png" />
 </p>
 
-2) A word cloud of the top 100 most frequent words in the book reveals themes that are still pertinent to Amherst College today (“department,” “trustees,” “students,” “dollars,” “fund”), and others that are not (“legislature,” “christian,” “revival,” “academy,” and “seminary”). 
+### Word cloud of top 100 most frequent words in the book:
+
+A word cloud of the top 100 most frequent words in the book reveals themes that are still pertinent to Amherst College today (“department,” “trustees,” “students,” “dollars,” “fund”), and others that are not (“legislature,” “christian,” “revival,” “academy,” and “seminary”). 
   <p align="center">
   <img src="README-images/word-cloud-book.png" />
 </p>
 
-3) We chose one chapter to analyze through three different text analysis methods: word frequencies, tf-idf's, and word clouds.  From analyzing chapter 19 "Biographical Sketches of Dr. Hitchcock and Some of His Associates," we were able to get a summary glimpse of the chapter contents without ever reading the chapter.
+### Analyzing chapter 19 through three methods
+
+We chose one chapter to analyze through three different text analysis methods: word frequencies, tf-idf's, and word clouds.  From analyzing chapter 19 "Biographical Sketches of Dr. Hitchcock and Some of His Associates," we were able to get a summary glimpse of the chapter contents without ever reading the chapter.
 
 We found that the top 3 most frequent words in chapter 19 were "dr," "life," and "time".   We also made a word cloud of chapter 19 to identify the top 100 most frequent words in the chapter (with the size of the words in the cloud signifying their relative frequency in the chapter).
 
-Meanwhile, the five words that had the highest tf-idf's in chapter 19 were "survey," "scientific," "hitchcock," "geology," and "comprehensive", indicating that these were the five words that 
+<p align="center">
+  <img src="README-images/word-cloud-chapter19.png" />
+</p>
+
+Meanwhile, the five words that had the highest tf-idf's in chapter 19 were "survey," "scientific," "hitchcock," "geology," and "comprehensive", indicating that these were the five words were particularly frequent in this chapter when comparing their frequency throughout the entire book.  
 
