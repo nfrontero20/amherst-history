@@ -17,3 +17,13 @@ Analysis:
     
 Overview of findings: 
 
+  1. The top 10 most frequent words in the book, after "college" and "amherst," included words pertaining to three themes: important college personnel (“dr,” “president,” “trustees”); the student body (“students," “class”); religion (“rev,” short for
+reverend, "church")
+<p align="center">
+  <img src="README-images/word-frequencies-book.png" />
+</p>
+
+  2. The top 100 most frequent words in the book center around themes that are still pertinent to Amherst College today, and others that are not, as depicted by a word cloud.  Still pertinent words include “department,” “trustees,” “students,” “dollars,” “fund”.  Meanwhile, words that appear in the word cloud that are less relevant to the present day Amherst experience include “legislature,” “christian,” “revival,” “academy,” and “seminary”.
+  <p align="center">
+  <img src="README-images/word-cloud-book.png" />
+</p>
