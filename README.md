@@ -20,7 +20,7 @@ reverend, "church")
   <img src="README-images/word-frequencies-book.png" />
 </p>
 
-  2. The top 100 most frequent words in the book center around themes that are still pertinent to Amherst College today, and others that are not, as depicted by a word cloud.  Still pertinent words include “department,” “trustees,” “students,” “dollars,” “fund”.  Meanwhile, words that appear in the word cloud that are less relevant to the present day Amherst experience include “legislature,” “christian,” “revival,” “academy,” and “seminary”.
+  2. A word cloud of the top 100 most frequent words in the book reveals themes that are still pertinent to Amherst College today (“department,” “trustees,” “students,” “dollars,” “fund”), and others that are not (“legislature,” “christian,” “revival,” “academy,” and “seminary”).  Still pertinent words include . 
   <p align="center">
   <img src="README-images/word-cloud-book.png" />
 </p>
